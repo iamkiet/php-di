@@ -1,0 +1,16 @@
+{
+    "name": "kietnguyen/php-di",
+    "description": "example for dependences injection in php",
+    "authors": [
+        {
+            "name": "Kiet Nguyen",
+            "email": "kietnguyen.me@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
